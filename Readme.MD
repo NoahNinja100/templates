@@ -11,6 +11,7 @@
 
 ### Notifications
   - [SweetAlert2](https://sweetalert2.github.io/)
+       - [Themes](https://github.com/sweetalert2/sweetalert2-themes)
   - [Toastify](https://github.com/aleab/toastify)
 
 ### Gui
